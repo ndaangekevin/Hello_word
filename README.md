@@ -1,8 +1,8 @@
 # Hello_word
 My name is Aboua Ange Kevin N'Da, I am currently a PhD student in Computer science field. My research is on blockchain technology.
-This research concern, security solution to secure smart coontract on the Ethereum platform.
+This research concerns security solutions to secure smart coontract on the Ethereum platform.
 
-I am a teaching assitant on UWS for the following module:
+I am also a teaching assitant on UWS for the following module:
 
 -Android mobile app development
 -Web technology
@@ -15,10 +15,11 @@ Skills
 -Tools and IDE: Microsoft office, SAS, Netbean, Intellij. 
 
 
-I an open for any IT solution project in following field
+I anm open to any IT solution project in following field
 
 -Blockchain
 -Sofware development
+-Robotic
 
 
 
